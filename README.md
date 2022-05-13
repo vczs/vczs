@@ -8,4 +8,4 @@
 - :sparkling_heart: wechat: svczsw
 - :revolving_hearts: qq: 390859202
 
-[![Rainbow cat's github stats](https://github-readme-stats.vercel.app/api?username=vczs&count_private=true&show_icons=true&theme=radical)](https://github.com/vczs)
+[![vczss github stats](https://github-readme-stats.vercel.app/api?username=vczs&count_private=true&show_icons=true&theme=radical)](https://github.com/vczs)
