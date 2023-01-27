@@ -2,7 +2,7 @@
 
 - :rose: I’m currently working on block-chain
 - :bulb: I’m currently learning golang,rust,python,k8s
-- :palm_tree: contact me email: hi.vincz@gmail.com
+- :palm_tree: contact me email: vczvip@gmail.com
 - :satellite: contact me telegram: @svczs
 - :earth_africa: contact me twitter: @svczs
 - :sparkling_heart: contact me wechat: svczsw
