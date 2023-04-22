@@ -8,5 +8,5 @@
 - :sparkling_heart: contact me wechat: vczvip
 - :revolving_hearts: contact me qq: 390859202
 
-[![vczs github](https://github-readme-stats.vercel.app/api?username=vczs&theme=radical)](https://github.com/vczs)
+[![vczs github](https://github-readme-stats.vercel.app/api?username=vczs&theme=highcontrast)](https://github.com/vczs)
 [![vczs github](https://github-readme-stats.vercel.app/api/top-langs/?username=vczs&layout=compact&theme=highcontrast)](https://github.com/vczs)
