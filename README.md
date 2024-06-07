@@ -1,10 +1,9 @@
-# Hi 👋 I'm [vczs](https://www.vczs.top)
+# Hi👋 I'm [ian](https://www.vczs.top)
 
-- :palm_tree: contact me email: vczvip@gmail.com
-- :satellite: contact me telegram: @vczvip
+- :sparkling_heart: contact me email: vczvip@gmail.com
 - :earth_africa: contact me twitter: @vczvip
+- :satellite: contact me telegram: @vczvip
 - :rose: contact me wechat: vczvip
-- :sparkling_heart: contact me qq: 390859202
 
 [![vczs github](https://github-readme-stats.vercel.app/api?username=vczs&theme=highcontrast)](https://github.com/vczs)
 
