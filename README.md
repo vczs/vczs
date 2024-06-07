@@ -1,4 +1,4 @@
-# Hi👋 I'm [ian](https://www.vczs.top)
+# Hi👋 I'm [ian](https://github.com/vczs)
 
 ### :sparkling_heart: contact me email: vczvip@gmail.com
 ### :earth_africa: contact me twitter: @vczvip
